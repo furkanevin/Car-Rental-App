@@ -2,6 +2,7 @@
 - Car rental application with filtering , pagination and car details.
 
 # Tech
+- React
 - TypeScript
 - Framer-Motion
 - Tailwind
