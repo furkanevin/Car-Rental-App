@@ -1,5 +1,5 @@
 # App
-- Car rental application with filtering and car details.
+- Car rental application with filtering , pagination and car details.
 
 # Tech
 - TypeScript
